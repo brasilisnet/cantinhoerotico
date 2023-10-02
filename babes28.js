@@ -2,9 +2,9 @@
 //store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBeVmN0fhUEZGDiS-9uUt7g16yEg6TaDeA1cdFPPs-RmlrIpXeGEPDdZef2jApYK7OwDdJvlqR34c_fqK9-tS76np6riiMOmOEMVGDC4X21i4hjZJ2ksyhJSjnsGIU73dmmx_FbAJjbpEPITFiN-XCU1peGpICIDsQ5J7fXZe9Y6KAMvaXgGjcGmRs4ms/s1600/babes-82.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP_zZXt3D1nLqOo-x_ksmkXVO9EUwm2WYcK4HHSswvolUEOBio8Ji6S7xtgbVHxXwsOPwPhD96F5kO8LedR_3kjTOzzoXhm1SMk6CFNNyHWqZFvD1dRy9diJcCifv4pdbxo2M4HZG0x5RRWm0xD2yBGqtj4RXqvKJaHBGmnFC8ctUKA5UoWxbopqRBme4/s1600/babes-83.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6zdmWUc5gsn18juVlIO3e4ExBIEHttlV_BajvJSJbJvBlaFiwy0yu1GUfpA_JJHx0qpQcF58lcA6SDxMknqHkC1h4TUAKU35PzgWPtUD4ZX1ZhxUmg3vqzREmvlFuJmGquQkz-P7XVSyZRu2JRYQMfBZ73bU3g6cZQlAmTHtnT2Nwy0Ai1rK8E8Y4g5U/s1600/babes-84.webp' width='100%' height='auto'></a>";
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfma-quC8dZug4PaLNcH-E5GoyDkGbjgdFIiar-bzfO6K9uMCeyGgyQ8Wm5b_5H6Kr5u2MkrMfsObdJ-05heGp58qpMqviA7aSUCZdkWfHB51QHjyagYctMitKqsMwjX3aKSeZ6RM5avwUmu2RPtQXjbHz89_vafdVBNglrGi3S44YoSOFWWLfvx3tNmg/s1600/babes-82.webp' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCizpdWEt0M5XQxCrOO1ssEjWKlgsgpP3tPNV5qhEV0mO8Qi_HleoVcZgtOTaYfpW2fzJZrAVQdxXBNl-JX5iCBpxQQlMoZUzw-Bfhwp9-KouC6MHyxsVnZpqNYPWo7nWimAdluu3JloVbKypIfXLWV_y0nnx7D-97z1bzRbBNiw0YWBh-8WEegvpuXy4/s1600/babes-83.webp' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizwgiVPVY8AO7ohVGjSTIcqZhuW9BzYUOAf8P1YBohVLP4dSs_bbWriBi1Iyp1nVZ5Lam0dAVta2gkz2ZDyVsFwMb7NGumOOkXZCVbZJ9RZIuMwMMBirSG13WbWAaS5D0-1WuIFSjkDQoJvZra-dTUlPBPhlgiTKvlURv8rG4sCfYkVvj15x1CmkFSwL0/s1600/babes-84.webp' width='100%' height='auto'></a>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
 //done
