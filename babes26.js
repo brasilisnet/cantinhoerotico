@@ -2,9 +2,9 @@
 //store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU3i4HSOaQJv9T6dzHlqLEolMe0RpfBsVvp6sEejZYx47XuVoIy_5jav2Y7rvXMJVT8OYZweGlzbuGVkT3_waE4PZN1xWW8Bxlfdj31OukgZXV-jL8redwl-525pmDwfr6IjelF2icXZDbI-IDev0kAyJrmFuchRNnw5C3RaToL9aQKHIgaIOkBsYrsnE/s1600/babes-76.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh_M7pFeZqy19kMXmQgMQlvTmsi_WYd82b0hgb4Kjzv4-xuqUqTFIDWXEt13VNAUR4LJ1Rpqyi8_vwlMWrXZWNidCesCl9eMvg_b2ahUpM7dQ1RvBM_h7nUPCLxBBPydELODlCKGOl9vmYTY7-JfdQ8vOJvOum29qoJzuDkeKbBoef7ps_j3zOr-jO_1E/s1600/babes-77.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPKBiUF5sS0dtv4w8n-DW-BYFwcYqqpWn9oY_HpYw_MIr6VuH2ZUc3-i1I2G_RiGtZSU-3D9QiZ2FKX4iwh_rx3ZjZyW4DozPeYsh-q3lBbhjDWpDPUYicV5WuRzfpRWn96gE6wm9p_LlkIs7Kpn0b6wlyuyL0sJOKdVnk54SDuYWvAt_JSwnhpamjzWE/s1600/babes-78.webp' width='100%' height='auto'></a>";
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosJ_qT_51izHTAUZP9nOLHVok43yvV1aHt67s6aFCSo1BBgY4kkPchHNPEN_MKGRXUfzrXXKU2TbxKVOvWM7Ro8VXCXEGwzd4rTTexmCKOZY5DIR0rSKK1FeAE-01ZRzNF6VW3SYaJemRFpAh7LkshFte8rWw0qfuI4cXyRRgbRT0mSn5r76m1fckhIM/s1024/homemade-baes-076.jpg' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimSpCLkQ6EY7c54MU1LEUX9-cCBZF-qUhSep1QqBupcSwU6ShLKUtKpbadD7XWuh_StthZ2nalloUwi48tw6EeSkxOUDsx_tyV6NM_V6rTYSjvL-WZfbjEpObpNswvh5GjE29GNCfSU-7x3n8fjx6bf-Zl7W9IFA0TRSH-Y05jHDb2tL_4iwSRHGm4NZc/s1024/homemade-baes-077.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-xE3IWFH2HgvWmrjLe7GTIYqYTZufjYSk3y6bOSHh5QTXVNTq6cShpVJT6-ZY-aH2ks4WWgVq_Uqx_MRMvU6NQSF6oV_CSuraaoXk7PZ64NvIJx9ki2ecAIXt-4f5Nbj_y0jZdD7ZNUEALYmf1igC-85BU68-qDOxuoCXNhoRRo89F1mwP_OM_hzeEk/s1024/homemade-baes-078.jpg' width='100%' height='auto'></a>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
 //done
