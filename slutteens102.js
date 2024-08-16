@@ -2,10 +2,9 @@
 //store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlTy-dCrosor-jtnV_TTXTzfGE0KySRknMnuolbug4ryz6E-FmJ4xDUwU1l7RXcLKiNXLpygey0wvk-Z4EtWW0VXr969EDAOJo7qgpLSFaZkdaxl4m7IGCa7u4yd8NpZ7U9npZZAAvBWgWsIgpbfPGBTfhFEFs3v8DVzHKaJxzLKU2l_ifeOLQf6RCXo/s1600/slut-teen-305.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRPfO06oqa4hHSXZsAoY65Wu0gyridig2a6-y041itTDg9GOHD0uw0ilkOk53bQ_yqdou6m2RkpfJYXjCqeH7AHR0q31_SF5JENuIw9dGKfmpnbTP7r7wsdgRyyK9k9xlhAoD156Iy45Kpl5HX6sUzWCarr5PEUIan-LdcNOVky6OXpvY2vRNwQHiKQ-M/s1600/slut-teen-306.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGEWPNt-bNri_C_hrY3ZiV3I8sRgZIlPh6bGO-n7OlSZf5E0oeiWeJu1eAdB8UvsC4rXpKd1Sl4VqiBZMD0gXQV4HwgYOsHu7eeyNGiD3lCAP3qP25kdoDmu6XR9ulTEzGFWA_OD_LiDsZrx1LRjYhyESEE9ZYpiHfxraVSIwmkk0t409ObNqjgUyjjHM/s1600/slut-teen-307.webp' width='100%' height='auto'></a>";
-index = Math.floor(Math.random() * images.length);
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsX_dlkMfdEpyGSf9W25CB9SnM8GOQPM3_1DN2Ce66REZTGSjsLxXo_Kingft8lf5QXS4qefTJbiwiuYB9REW6P6f3LcUqDxW_HZApWxcxnndGnBd26hVQZVFcrBxffYcX0mBKprPtbHsUbF-2lKqafe1a1ObXq1CIcxUqMh0KvpzM_Bqtw6Dswxfi-8Y/s1024/slut-teens-304.jpg' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIgSVSRdvQ20dq6EAG9z4Iuoe7iUcwnPKQde6JwTtHWUigSt04q8A4t93dquwi4p1mb3er2M5Ancjz6LVql-grJiIgvOUb-nbev4oWY1F9badzi6DSzdwSxyO7QKI12U0HeFEH88kWzUw3hu9AFr31W4VSWUMPCUPk6Tkjpy_JgTaMCuhv8PjQY5begI/s1024/slut-teens-305.jpg' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyiVGucExazpanDGs-nw3V5Qr0FI_f9KH6C5GDmGMt4rxUcthyDCza9J_SFn6_y35t7m5ZXjWTIZviYESBv1EO83ulrDjg2y_-bGEBogyTQgSPqDKQUXj_WTbTeOQaqBKz6aHxqDhEGbbRxK_gGe_yhCE1vUzMPonRfnU8Ds3hsUbfW0-KHgAdBqp-Qs/s1024/slut-teens-306.jpg' width='100%' height='auto'></a>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
 //done
